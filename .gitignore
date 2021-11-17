@@ -1,0 +1,6 @@
+.DS_store
+.ipynb_checkpoints/
+notebooks/image_captioning
+notebooks/english_to_latex
+notebooks/lightning_logs
+notebooks/toxic
