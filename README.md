@@ -2,7 +2,7 @@
 
 # Hands on NLP with Transformers
 
-This repository contains code for the [O'Reilly Live Online Training for Hands on NLP with Trannsformers](https://learning.oreilly.com/live-events/hands-on-nlp-with-transformers/0636920063159/0636920063158/)
+This repository contains code for the [O'Reilly Live Online Training for Hands on NLP with Transformers](https://learning.oreilly.com/live-events/hands-on-nlp-with-transformers/0636920063159/0636920063158/)
 
 This training will provide an introduction to the novel transformer architecture which is currently considered state of the art for modern NLP tasks. We will take a deep dive into what makes the transformer unique in its ability to process natural language including attention and encoder-decoder architectures. We will see several examples of how people and companies are using transformers to solve a wide variety of NLP tasks including conversation-holding, image captioning, reading comprehension, and more.
 
