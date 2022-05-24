@@ -5,3 +5,6 @@ notebooks/english_to_latex
 notebooks/lightning_logs
 notebooks/toxic
 notebooks/xlnet_clf/
+notebooks/calculus/
+notebooks/calculus_english_to_latex/
+notebooks/v2_image_captioning/
