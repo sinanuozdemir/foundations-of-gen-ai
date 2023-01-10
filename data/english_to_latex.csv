@@ -1,10 +1,10 @@
 English,LaTeX
-integral from a to b of x squared,"\int_{a}^{b} x^2 \,dx"
-integral from negative 1 to 1 of x squared,"\int_{-1}^{1} x^2 \,dx"
-integral from negative 1 to infinity of x cubed,"\int_{-1}^{\inf} x^3 \,dx"
-integral from 0 to infinity of x squared,"\int_{0}^{\inf} x^2 \,dx"
-integral from 0 to infinity of y squared,"\int_{0}^{\inf} y^2 \,dy"
-integral from 1 to 2 of x over 2,"\int_{1}^{2} \frac{x}{2} \,dx"
+integral from a to b of x squared,"\int_{a}^{b} x^2\,dx"
+integral from negative 1 to 1 of x squared,"\int_{-1}^{1} x^2\,dx"
+integral from negative 1 to infinity of x cubed,"\int_{-1}^{\inf} x^3\,dx"
+integral from 0 to infinity of x squared,"\int_{0}^{\inf} x^2\,dx"
+integral from 0 to infinity of y squared,"\int_{0}^{\inf} y^2\,dy"
+integral from 1 to 2 of x over 2,"\int_{1}^{2} \frac{x}{2}\,dx"
 f of x equals x squared,f(x) = x^2
 h of x equals x squared,h(x) = x^2
 g of x equals x squared,g(x) = x^2
@@ -12,11 +12,11 @@ g of x equals x to the eighth power,g(x) = x^8
 f of x equals x cubed,f(x) = x^3
 f of x equals x,f(x) = x
 h of x equals x to the fifth power,h(x) = x^5
-g of x equals integral from 0 to 10 of x cubed,"g(x) = \int_{0}^{10} x^3 \,dx"
+g of x equals integral from 0 to 10 of x cubed,"g(x) = \int_{0}^{10} x^3\,dx"
 f of x equals x over n,f(x) = \frac{x}{n}
-f of x equals integral from 1 to 2 of x,"f(x) = \int_{1}^{2} x \,dx"
-f of x equals integral from 0 to 2 of x,"f(x) = \int_{0}^{2} x \,dx"
-f of x equals integral from 1 to 2 of x over 2,"f(x) = \int_{1}^{2} \frac{x}{2} \,dx"
+f of x equals integral from 1 to 2 of x,"f(x) = \int_{1}^{2} x\,dx"
+f of x equals integral from 0 to 2 of x,"f(x) = \int_{0}^{2} x\,dx"
+f of x equals integral from 1 to 2 of x over 2,"f(x) = \int_{1}^{2} \frac{x}{2}\,dx"
 f of x equals sum from 1 to 5 of x squared,f(x) = \sum_{1}^{5} x^2
 x squared,x^2
 x cubed,x^3
