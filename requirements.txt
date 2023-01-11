@@ -1,7 +1,7 @@
-nlp==0.4.0
-transformers==4.12.2
-seaborn==0.11.1
-pandas==1.2.4
+transformers==4.23.1
+seaborn==0.12.1
+pandas==1.5.1
 torch>=1.0
 soundfile
 librosa==0.8.1
+evaluate==0.4.0
