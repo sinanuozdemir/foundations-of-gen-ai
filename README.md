@@ -10,7 +10,7 @@ This training will feature several code-driven examples of transformer-derived a
 ### Notebooks
 ## Notebooks
 
-1. [Classification with BERT vs ChatGPT](notebooks/BERT vs GPT for CLF.ipynb) - [Open in Colab](#https://colab.research.google.com/drive/1elfu-6gaj0KWtIQMyeHYWqqkNUgA6hFn?usp=sharing)
+1. [Classification with BERT vs ChatGPT](notebooks/BERT%20vs%20GPT%20for%20CLF.ipynb) - [Open in Colab](#https://colab.research.google.com/drive/1elfu-6gaj0KWtIQMyeHYWqqkNUgA6hFn?usp=sharing)
 2. [Classification with XLNET](notebooks/xlnet_clf.ipynb)
 3. [Off the shelf NLP with T5](notebooks/t5.ipynb)
 4. [Generating LaTeX with GPT2](notebooks/latex_gpt2.ipynb) - [Open in Colab](#https://colab.research.google.com/drive/1bzy6QGa-IwD45LhAI0Hm6BYdORuguNS_?usp=sharing)
