@@ -17,3 +17,4 @@ data/cached*
 notebooks/wandb/
 notebooks/pre_trained_english_to_latex/
 notebooks/pre_trained/
+notebooks/bert_clf_results/
