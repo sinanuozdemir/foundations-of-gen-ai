@@ -18,11 +18,10 @@ This course is designed to provide a deep understanding of transformer architect
 	- [Off the shelf NLP with T5](notebooks/t5.ipynb)
 3. GPT - How LLMs learned to talk
 	- [Introduction to GPT](notebooks/intro_to_gpt.ipynb)
-		- [Open in Colab](https://colab.research.google.com/drive/1bzy6QGa-IwD45LhAI0Hm6BYdORuguNS_?usp=sharing)
 4. Multimodal LLMs
 	- [Image Captioning with Vision Transformers](notebooks/image_captioning_vision_transformer.ipynb)
 		- [Open in Colab](https://colab.research.google.com/drive/1OQlX_cD4mVo8vB3A4co1JIfl9Vt7rhzN?usp=sharing)
-5. [Inspecting LLM token embeddings](LLM Embeddings) - Explore how different attention mechanisms lead to different token embeddings
+5. [Inspecting LLM token embeddings](notebooks/LLM Embeddings.ipynb) - Explore how different attention mechanisms lead to different token embeddings
 
 ### Advanced LLMs
 
@@ -46,7 +45,7 @@ This course is designed to provide a deep understanding of transformer architect
 
 **Distillation**
 
-- [`Go Emotion Distillation`](notebooks/go_emotion_distillation.ipynb): Exploring knowledge distillation techniques for transformer models.
+- [Go Emotion Distillation](notebooks/go_emotion_distillation.ipynb): Exploring knowledge distillation techniques for transformer models.
 
 
 **Agents / RAG**
