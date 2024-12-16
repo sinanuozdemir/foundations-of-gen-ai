@@ -1,28 +1,26 @@
 ![oreilly-logo](images/oreilly.png)
 
-# Hands on NLP with Transformers
+# Transformer Architectures for Generative AI
 
-This repository contains code for the [O'Reilly Live Online Training for Hands on NLP with Transformers](https://learning.oreilly.com/live-events/hands-on-nlp-with-transformers/0636920063159/0636920063158/)
+This repository contains code for the [O'Reilly Live Online Training for "Transformer Architectures for Generative AI"](https://learning.oreilly.com/live-events/transformer-architectures-for-generative-ai/0642572010589)
 
-This training will provide an introduction to the novel transformer architecture which is currently considered state of the art for modern NLP tasks. We will take a deep dive into what makes the transformer unique in its ability to process natural language including attention and encoder-decoder architectures. We will see several examples of how people and companies are using transformers to solve a wide variety of NLP tasks including conversation-holding, image captioning, reading comprehension, and more.
-
-This training will feature several code-driven examples of transformer-derived architectures including BERT, GPT, T5, and the Vision Transformer. Each of our case studies will be inspired by real use-cases and will lean on transfer learning to expedite our process while using actionable metrics to drive results.
+This course is designed to provide a deep understanding of transformer architectures and their revolutionary impact on both natural language processing (NLP) and vision tasks. This course is crucial for professionals looking to stay at the forefront of AI advancements, as transformers are now the cornerstone of many state-of-the-art models. By combining theory with practical exercises, participants will learn how to harness the power of transformers to tackle complex problems in text, image, and multimodal AI.
 
 ## Notebooks
+
+### Introduction to LLMs
 
 1. BERT - the beginnings of LLMs
 	- [Introduction to BERT](notebooks/intro_to_bert.ipynb)
 	- [Classification with BERT vs ChatGPT](notebooks/BERT%20vs%20GPT%20for%20CLF.ipynb)
 		- [Open in Colab](https://colab.research.google.com/drive/1elfu-6gaj0KWtIQMyeHYWqqkNUgA6hFn?usp=sharing)
-2. XLNET - moving auto-encoding models further
-	- [Classification with XLNET](notebooks/xlnet_clf.ipynb)
-3. T5 - the beginnings of instructional alignment
+2. T5 - the beginnings of instructional alignment
 	- [Off the shelf NLP with T5](notebooks/t5.ipynb)
-4. GPT - How LLMs learned to talk
+3. GPT - How LLMs learned to talk
 	- [Introduction to GPT](notebooks/intro_to_gpt.ipynb)
 	- [Generating LaTeX with GPT2](notebooks/latex_gpt2.ipynb)
 		- [Open in Colab](https://colab.research.google.com/drive/1bzy6QGa-IwD45LhAI0Hm6BYdORuguNS_?usp=sharing)
-5. Multimodal LLMs
+4. Multimodal LLMs
 	- [Image Captioning with Vision Transformers](notebooks/image_captioning_vision_transformer.ipynb)
 		- [Open in Colab](https://colab.research.google.com/drive/1OQlX_cD4mVo8vB3A4co1JIfl9Vt7rhzN?usp=sharing)
 
