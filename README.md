@@ -12,8 +12,6 @@ This course is designed to provide a deep understanding of transformer architect
 
 1. BERT - the beginnings of LLMs
 	- [Introduction to BERT](notebooks/intro_to_bert.ipynb)
-	- [Classification with BERT vs ChatGPT](notebooks/BERT%20vs%20GPT%20for%20CLF.ipynb)
-		- [Open in Colab](https://colab.research.google.com/drive/1elfu-6gaj0KWtIQMyeHYWqqkNUgA6hFn?usp=sharing)
 2. T5 - the beginnings of instructional alignment
 	- [Off the shelf NLP with T5](notebooks/t5.ipynb)
 3. GPT - How LLMs learned to talk
