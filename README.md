@@ -62,9 +62,10 @@ This course is designed to provide a deep understanding of transformer architect
 - [Probing Chess Playing LLMs](https://colab.research.google.com/drive/114turFLNxLJXiIseDWl1BDJmont0VD8h?usp=sharing)
 
 - There are over a dozen notebooks for the birth year/death year probing example so I will only share a few key ones here:
-	  - [Llama-3 8B Instruct with prompt "Who is {NAME}"](https://colab.research.google.com/drive/1e1d9fATVjVun-_tPj4vS_DSTGaIfxs01?usp=sharing)
-	  - [BERT-large-cased no prompt](https://colab.research.google.com/drive/1cizgoh1J6Y-DHBrOkNTFo9Y1CypjwuQM?usp=sharing)
-	  - [Mistral-7B-Instruct-v0.3 with prompt "Who is {NAME}"](https://colab.research.google.com/drive/1VL3betxqVZ_H3_8XmLbjE0hEjaoy-HPV?usp=sharing)
+
+  - [Llama-3 8B Instruct with prompt "Who is {NAME}"](https://colab.research.google.com/drive/1e1d9fATVjVun-_tPj4vS_DSTGaIfxs01?usp=sharing)
+  - [BERT-large-cased no prompt](https://colab.research.google.com/drive/1cizgoh1J6Y-DHBrOkNTFo9Y1CypjwuQM?usp=sharing)
+  - [Mistral-7B-Instruct-v0.3 with prompt "Who is {NAME}"](https://colab.research.google.com/drive/1VL3betxqVZ_H3_8XmLbjE0hEjaoy-HPV?usp=sharing)
 
 
 - [Evaluating Tool Selection](notebooks/agent_positional_bias_tools.ipynb) - Calculating the accuracy of tool selection between different LLMs and quantifying the positional bias present in auto-regressive LLMs
