@@ -30,7 +30,11 @@ This course is designed to provide a deep understanding of transformer architect
   - [`bert_app_review.ipynb`](notebooks/bert_app_review.ipynb): Fine-tuning a BERT model for app review classification.
   - [`openai_app_review_fine_tuning.ipynb`](notebooks/openai_app_review_fine_tuning.ipynb): Fine-tuning OpenAI models for app review classification.
 
-**Visual Q/A**
+**Multimodal**
+
+- [Stock Image Search](https://colab.research.google.com/drive/1aUz0FKQDSAyXyhRyvkkRsSy7S30mpRJc?usp=sharing) - Using a CLIP model to build an image search system
+
+- Visual Q/A
 
   - [`constructing_a_vqa_system.ipynb`](notebooks/constructing_a_vqa_system.ipynb): Step-by-step guide to constructing a Visual Question Answering (VQA) system using GPT-2 and Vision Transformer.
 	- [`using_our_vqa.ipynb`](notebooks/using_our_vqa.ipynb): Using the VQA system built in the previous notebook.
