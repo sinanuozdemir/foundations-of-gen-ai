@@ -55,7 +55,7 @@ This course is designed to provide a deep understanding of transformer architect
 **Agents / RAG**
 
 - [RAG Retrieval](notebooks/RAG_Retrieval.ipynb): An introduction to vector databases, embeddings, and retrieval
-
+- [Evaluating Tool Selection](notebooks/agent_positional_bias_tools.ipynb) - Calculating the accuracy of tool selection between different LLMs and quantifying the positional bias present in auto-regressive LLMs
 		
 **Probing**
 
@@ -68,7 +68,6 @@ This course is designed to provide a deep understanding of transformer architect
   - [Mistral-7B-Instruct-v0.3 with prompt "Who is {NAME}"](https://colab.research.google.com/drive/1VL3betxqVZ_H3_8XmLbjE0hEjaoy-HPV?usp=sharing)
 
 
-- [Evaluating Tool Selection](notebooks/agent_positional_bias_tools.ipynb) - Calculating the accuracy of tool selection between different LLMs and quantifying the positional bias present in auto-regressive LLMs
 
 ## Instructor
 
