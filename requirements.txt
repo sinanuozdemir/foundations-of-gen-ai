@@ -5,3 +5,4 @@ torch>=1.0
 soundfile
 librosa==0.8.1
 evaluate==0.4.0
+bertviz
