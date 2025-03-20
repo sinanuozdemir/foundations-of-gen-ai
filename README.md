@@ -49,10 +49,13 @@ This course is designed to provide a deep understanding of transformer architect
   - [`SAWYER_RLF.ipynb`](notebooks/SAWYER_RLF.ipynb): Applying Reinforcement Learning from Human Feedback (RLHF) to align the SAWYER bot.
   - [`SAWYER_USE_SAWYER.ipynb`](notebooks/SAWYER_USE_SAWYER.ipynb): Using the SAWYER bot.
 
-**Distillation**
+**Distillation / Speculative Decoding / Caching**
 
 - [Go Emotion Distillation](notebooks/go_emotion_distillation.ipynb): Exploring knowledge distillation techniques for transformer models.
 
+- [Speculative Decoding](https://colab.research.google.com/drive/1QXqUjgMLUbAqXzGc8uBWJ5t4BEtJQbWh?usp=sharing) - Using an assistant model to aid token decoding
+
+- [Prompt Caching Llama 3](https://colab.research.google.com/drive/1LlocxmN6adI-bFeT2dGGa4U2zkku77o7?usp=sharing) - Replicating prompt caching with HuggingFace tools
 
 **Agents / RAG**
 
