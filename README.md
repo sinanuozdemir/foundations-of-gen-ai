@@ -17,8 +17,7 @@ This course is designed to provide a deep understanding of transformer architect
 3. GPT - How LLMs learned to talk
 	- [Introduction to GPT](notebooks/intro_to_gpt.ipynb)
 4. Multimodal LLMs
-	- [Image Captioning with Vision Transformers](notebooks/image_captioning_vision_transformer.ipynb)
-		- [Open in Colab](https://colab.research.google.com/drive/1OQlX_cD4mVo8vB3A4co1JIfl9Vt7rhzN?usp=sharing)
+	- [Image Captioning with Vision Transformers](https://colab.research.google.com/drive/1OQlX_cD4mVo8vB3A4co1JIfl9Vt7rhzN?usp=sharing)
 5. [Inspecting LLM token embeddings](notebooks/LLM Embeddings.ipynb) - Explore how different attention mechanisms lead to different token embeddings
 
 ### Advanced LLMs
