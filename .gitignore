@@ -18,8 +18,6 @@ notebooks/wandb/
 notebooks/pre_trained_english_to_latex/
 notebooks/pre_trained/
 notebooks/bert_clf_results/
-# Created by https://www.toptal.com/developers/gitignore/api/macos,python,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,visualstudiocode
 
 ### macOS ###
 # General
@@ -245,4 +243,5 @@ pyrightconfig.json
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,python,visualstudiocode
+=======
+data/flicker_images/
